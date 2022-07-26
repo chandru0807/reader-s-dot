@@ -1,0 +1,51 @@
+.result {
+    text-decoration: underline;
+}
+
+.my-opt {
+    display: none;
+}
+
+.my-modal {
+    background-color: #000; 
+}
+
+#text-empty,
+.finish {
+     display: none; 
+}
+.sam{
+    background-color: #b1a9a9;
+}
+body{
+    background-color:snow;
+    color: navy;
+    /* background-image: url(image.jpg); */
+}
+.name{
+    color:darkorchid ;
+}
+.name1{
+    color:  seagreen;
+}
+.main{
+   width: 50cm;
+}
+progress{
+    width:40%;
+    padding: 1.75rem;
+    
+}
+#m{
+    margin-top: 1em;
+    font-size: 1.5rem;
+}
+.perc{
+    margin-bottom: 50px ;
+    text-align: left;
+    margin-left: 300px;
+}
+.link{
+    background-color: rebeccapurple;
+    top: 30px;
+}
